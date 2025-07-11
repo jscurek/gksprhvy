@@ -1,0 +1,4 @@
+Date,Stock,Shares,Buy Price,Total Cost,Current Price,Market Value,Gain/Loss,% Change,Action,Notes,Cumulative Profit
+7/10/2025,GXAI,198,$1.26,$249.48,$1.26,$249.48,0,0,Buy,AI-gaming hype,0
+7/11/2025,GXAI,198,$1.26,$249.48,$1.25,$246.51,-2.97,-0.0119,Hold,Limit sell at $1.51; alert at $1.07,0
+7/11/2025,GDRX,48,$4.89,$234.72,$4.89,$234.48,-0.24,-0.001,Buy,Healthcare growth; analyst Buy $6.75-$16; limit sell $6.75; alert $4.16,0
